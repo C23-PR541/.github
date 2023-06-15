@@ -7,8 +7,8 @@ GymGuru is an application that helps users learn how to use gym equipment. In th
 ### Feature
 * Tool detection feature
 * Notification feature for training reminder
-* Weight loss video recommendations
-* Video tutorials for gym equipment
+* exercise classification
+* Video tutorials for gym equipmentv & exercise classification
 
 ### Technology Stack
 The GymGuru project is created using the following technology stack:

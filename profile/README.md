@@ -15,9 +15,8 @@ The GymGuru project is created using the following technology stack:
 1. Kotlin for mobile app development
 2. TensorFlow for machine learning library
 3. Jupyter Notebook for machine learning train
-4. Google Cloud App Engine for cloud infrastructure
-5. Express.js for server-side development
-6. Firebase for authentication, authorization, and database.
+4. Express.js for server-side development
+5. Firebase for authentication, authorization, and database.
 
 ### Team Member
 | Member Name                 | Student ID  | Learning Path      | Linkedin                                                                           |

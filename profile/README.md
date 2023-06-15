@@ -1,4 +1,5 @@
-### Heading 1
-* test 1
+## GymGuru
+### About This App
+
 
 `LICENSE`

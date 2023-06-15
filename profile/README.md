@@ -1,6 +1,8 @@
 # GymGuru
 ### About This App
+<p align="justify">
 GymGuru is an application that helps users learn how to use gym equipment. In this application, you can classify images of gym equipment, and the application will provide information about the equipment and how to use it, using videos from YouTube. Additionally, users can create workout schedules and receive notifications by adding tasks to the calendar. Furthermore, this application can provide recommendations on what to do with our bodies based on BMI predictions.
+</p>
 
 ### Feature
 * Tool detection feature
